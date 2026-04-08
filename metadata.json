@@ -1,0 +1,5 @@
+{
+  "name": "MiCOM Relay Setting Calculator",
+  "description": "A web application to calculate and generate setting sheets for MiCOM protection relays.",
+  "requestFramePermissions": []
+}
